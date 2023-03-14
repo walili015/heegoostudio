@@ -1,6 +1,6 @@
 {
   "AdsController": {
-    "adNetwork": "admob",
+    "adNetwork": "applovin",
     "admobBanner": "",
     "admobInterstitial": "",
     "applovinBanner": "8cf99d75f0c6fcff",
